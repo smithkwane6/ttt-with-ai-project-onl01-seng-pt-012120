@@ -4,7 +4,7 @@ require_relative '../config/environment'
 
 def game_start
   puts "\nWelcome to Kwane's Command Line Tic Tac Toe!"
-  puts "\nA The Flatiron School Project"
+  puts "\nA Flatiron School Project"
   puts "\nWhat kind of game will you like to play? Please choose player mode:
   0 - Computer VS Computer
   1 - You VS Computer
